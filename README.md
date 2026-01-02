@@ -60,7 +60,7 @@
     <img src="https://img.shields.io/badge/Email-yura6156x@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <br>
-  <a href="uragrom.github.io/SiteAboutMeN2/portfolio2.html" target="_blank">
+  <a href="https://uragrom.github.io/SiteAboutMeN2/portfolio2.html" target="_blank">
      About me!
   </a>
   
