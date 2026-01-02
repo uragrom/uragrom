@@ -48,22 +48,7 @@
 
 ###
 
-### 👨‍💻 Обо мне
 
-<div align="center">
-  
-  ```typescript
-  const uragrom = {
-    role: "Full Stack Developer",
-    location: "Россия 🇷🇺",
-    code: ["C#", "Python", "JavaScript", "TypeScript"],
-    tools: ["React", "Node.js", "PostgreSQL"],
-    currentlyLearning: "Новые технологии и лучшие практики",
-    funFact: "Превращаю идеи в работающий код"
-  };
-  ```
-  
-</div>
 
 <div align="center">
   
