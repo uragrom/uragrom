@@ -14,9 +14,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="sass logo"  />
 </div>
 
 ###
@@ -31,7 +31,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="microsoftsqlserver logo"  />
 </div>
 
 ###
