@@ -55,8 +55,6 @@
 - 📝 Интересуюсь современными подходами к разработке
 - 💬 Всегда открыт для обсуждения интересных проектов
 
-### 🔗 Связь
-
 <div align="center">
   <a href="mailto:yura6156x@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
