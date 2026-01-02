@@ -1,4 +1,37 @@
-<h1 align="center">🐉 uragrom / experienced coder </h1>
+<h1 align="center">🐉 Привет, я uragrom!</h1>
+<h3 align="center">Опытный разработчик из России 🇷🇺</h3>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=uragrom&label=Профиль%20просмотров&color=0e75b6&style=flat" alt="uragrom" />
+</div>
+
+---
+
+### 👨‍💻 Обо мне
+
+- 💻 Разрабатываю на различных языках программирования
+- 🌱 Постоянно изучаю новые технологии и практики
+- 📝 Интересуюсь современными подходами к разработке
+- 💬 Всегда открыт для обсуждения интересных проектов
+- 📫 Как связаться: [ваши контакты]
+
+### 🔗 Ссылки
+
+<div align="center">
+  <!-- Добавьте свои ссылки, заменив # на реальные URL -->
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
 ###
 
@@ -54,6 +87,13 @@
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=uragrom&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=uragrom&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru&layout=compact" alt="uragrom" />
+</p>
+
+###
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uragrom&theme=github-compact&hide_border=true&bg_color=ffffff00&color=708090&line=24292e&point=24292e" alt="GitHub Activity Graph" />
 </p>
 
 ###
