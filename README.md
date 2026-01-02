@@ -1,4 +1,4 @@
-<h1 align="center">🐉 uragrom / experienced coder </h1>
+<h1 align="center">🍺 uragrom / YDG </h1>
 
 ###
 
