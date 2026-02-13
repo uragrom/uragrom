@@ -70,11 +70,6 @@
 
 ###
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uragrom&theme=github-compact&hide_border=true&bg_color=ffffff00&color=708090&line=24292e&point=24292e" alt="GitHub Activity Graph" />
-</p>
-
-###
 
 <p align="center">
   <img src="https://github-profile-trophy-tawny.vercel.app/?username=uragrom&theme=radical&no-frame=true&no-bg=true&margin-w=4">
