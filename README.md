@@ -59,6 +59,9 @@
   <a href="mailto:yura6156x@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-yura6156x@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://ydg-dev.itch.io/" target="_blank">
+    <img src="https://img.shields.io/badge/itch.io-YDG%20Games-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io" />
+  </a>
   <br>
   <a href="https://uragrom.github.io/SiteAboutMeN2/portfolio2.html" target="_blank">
      About me!
